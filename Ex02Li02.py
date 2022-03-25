@@ -1,0 +1,5 @@
+nome = input("Digite o seu primeiro nome: ")
+a = str(nome)
+sobrenome = input("Digite o seu sobrenome: ")
+b = str(sobrenome)
+print(sobrenome, ",", nome)
